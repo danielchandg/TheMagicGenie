@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/TheMagicGenie/static/js/main.21dc4e4f.js",
+    "static/media/genie2.svg": "/TheMagicGenie/static/media/genie2.8adece1cdf660ac490d29add282eab95.svg",
+    "static/media/genie.svg": "/TheMagicGenie/static/media/genie.8a39a23e9b01dd294007b6b6416012d3.svg",
+    "static/media/genie3.svg": "/TheMagicGenie/static/media/genie3.d7b3da641ffb0cbb54707dc79655809e.svg",
+    "static/media/genie4.svg": "/TheMagicGenie/static/media/genie4.0da1cfe395666de69a3f58150d641f7d.svg",
+    "static/media/genie5.svg": "/TheMagicGenie/static/media/genie5.9d1309d9dfe5a4efdd0a90b34cd2d910.svg",
+    "static/media/genie6.svg": "/TheMagicGenie/static/media/genie6.845cd3036c85ae5eca3e26cede837c7d.svg",
+    "static/media/princess.svg": "/TheMagicGenie/static/media/princess.5e5504eb03ee2e0ad6a3049b46ee4ab9.svg",
+    "static/media/lion.svg": "/TheMagicGenie/static/media/lion.4377e5b62215ec3afac5fa3c223dc1c8.svg",
+    "static/media/girl.svg": "/TheMagicGenie/static/media/girl.ade52ccb12d12c86bff07cf2f9d3ccfd.svg",
+    "static/media/dog.svg": "/TheMagicGenie/static/media/dog.9f6fdd20d81edad1865462bb48d9c5c5.svg",
+    "static/media/deer.svg": "/TheMagicGenie/static/media/deer.239f771443677c06360ad70e013941a8.svg",
+    "static/media/monster.svg": "/TheMagicGenie/static/media/monster.2a7e252c3c63df64829efbad8f747335.svg",
+    "static/media/dead.svg": "/TheMagicGenie/static/media/dead.ff8c44047da27a4ab0ea3ab5b160e774.svg",
+    "static/media/baby.svg": "/TheMagicGenie/static/media/baby.155feecdaaa81a7e2ef29d3af0eafe22.svg",
+    "static/media/fish.svg": "/TheMagicGenie/static/media/fish.02f0437b313509bc56751fd25388f4a8.svg",
+    "static/media/bear.svg": "/TheMagicGenie/static/media/bear.b7dbf40df02d2bd7d386c99c2b188224.svg",
+    "static/media/mouse.svg": "/TheMagicGenie/static/media/mouse.ee51e3511433326df40c8b2ced4648d4.svg",
+    "static/media/boy.svg": "/TheMagicGenie/static/media/boy.6626b7cb0359a5eba709a24d7e5cc0f8.svg",
+    "static/media/robot.svg": "/TheMagicGenie/static/media/robot.1506aa7f8ff48cc1b1b1249ad39a01ad.svg",
+    "static/media/bird.svg": "/TheMagicGenie/static/media/bird.50faf97467e34bb5dcc9eaeb3411bb77.svg",
+    "static/media/elephant.svg": "/TheMagicGenie/static/media/elephant.74a2fa036fb027074c7d4118b81dc2ad.svg",
+    "static/media/snowman.svg": "/TheMagicGenie/static/media/snowman.b885c647ff49d2227fb304342eaa6699.svg",
+    "static/media/car.svg": "/TheMagicGenie/static/media/car.c817c3c0663e141167a9c11e3e8b889e.svg",
+    "static/media/mirror.svg": "/TheMagicGenie/static/media/mirror.86bcf3c2e57cba4ecf3672a4896cc915.svg",
+    "static/media/prince.svg": "/TheMagicGenie/static/media/prince.8ccc9b538c6aee2f26ee28a902a8b348.svg",
+    "index.html": "/TheMagicGenie/index.html",
+    "main.21dc4e4f.js.map": "/TheMagicGenie/static/js/main.21dc4e4f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.21dc4e4f.js"
+  ]
+}
